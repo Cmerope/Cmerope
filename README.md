@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ksu
+### Hi there 👋, my name is Marina
 
 - 👩‍🎓 I'm studying at school 21
 - 📫 How to reach me: cmerope@student.21-school.ru
@@ -13,8 +13,6 @@
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="DOCKER"/>
 <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="KUBERNETES"/>
 <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/> 
-  
-  https://img.icons8.com/color/c-sharp-logo
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cmerope&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

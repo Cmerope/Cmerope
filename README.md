@@ -5,7 +5,7 @@
 
 ### What do I study:
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Cmerope/C_Projects_School21"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Cmerope/C_Projects_School21" target="_blank" ><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 

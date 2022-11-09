@@ -8,8 +8,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Cmerope/C_Projects_School21" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 <a href="https://github.com/Cmerope/CPP_Piscine_School21" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="CPP"></a>
 <a href="https://github.com/Cmerope/Java_Piscine_School21" target="_blank"><img src="https://img.icons8.com/color/48/000000/java.png" alt="JAVA"></a>
-<img src="https://img.icons8.com/color/python" alt="PYTHON>
-<img src="https://img.icons8.com/color/c-sharp-logo" alt="C-SHARP>
+<img src="https://img.icons8.com/color/python" alt="PYTHON"/>
+<img src="https://img.icons8.com/color/c-sharp-logo" alt="C-SHARP"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="DOCKER"/>
 <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="KUBERNETES"/>
 <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/> 
